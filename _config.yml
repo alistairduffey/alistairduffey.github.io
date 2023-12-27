@@ -2,9 +2,10 @@
 title:               Alistair Duffey 
 tagline:             'Climate science, solar geoengineering, the Arctic'
 description:         'alistair.duffey.21 [at] ucl.ac.uk
-			<a href="https://twitter.com/alibduff" target="_blank">@alibduff</a>'
+			<a href="https://twitter.com/alibduff" target="_blank">@alibduff</a>
+			<a href="https://scholar.google.com/citations?user=QHoneh4AAAAJ&hl=en" target="_blank">Google Scholar</a>'
 url:                 http://alistairduffey.github.io
-baseurl:             ''
+baseurl:             '/alistairduffey.github.io'
 paginate:            2
 permalink:           pretty
 
