@@ -1,10 +1,10 @@
-# gem "jekyll", "~> 3.9.3"
+gem "jekyll", "~> 3.9.3"
 
 gem "github-pages", group: :jekyll_plugins
 
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+#source "https://rubygems.org"
 
 # gem "rails"
 
