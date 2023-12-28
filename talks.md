@@ -8,6 +8,7 @@ title: Talks
 	*The Arctic under stratospheric aerosol injection* - [watch here](https://www.youtube.com/watch?v=_z-OwNu_8Uo&t=9s)
 	*Localised Arctic solar climate intervention* 
 * Imperial College Geology Society Symposium, March 2023 – *Geoengineering by stratospheric aerosol injection*
+* Reviewer 2 does Geoengineering podcast; Arctic geoengineering - Duffey [listen here](https://podcasts.apple.com/us/podcast/arctic-geoengineering-duffey/id1529459393?i=1000616912775)
 
 ## Conferences and seminars
 * European Geophysical Union General Assembly 2023 – Stability of the winter-time Arctic Ocean boundary layer in CMIP6 climate models evaluated against Soviet drifting stations, SHEBA and MOSAiC observations
