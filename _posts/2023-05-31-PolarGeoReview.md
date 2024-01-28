@@ -1,4 +1,7 @@
-# New paper - Solar Geoengineering in the Polar Regions, A Review
+---
+layout: post
+title: New paper - Solar Geoengineering in the Polar Regions, A Review
+---
 
 Our review examines in some detail what we know so far about the expected polar climate response to solar geoengineering. We focus on SAI, considering both global and more localised deployments, but also consider some other potential methods, such as marine cloud brightening and cirrus cloud thinning. 
 
@@ -10,6 +13,6 @@ Overall we argue that:
 - No truly localized polar geoengineering proposal has been shown viable for restoring climate on a pan-Arctic or Antarctic scale
 
 Another key message is simply that, as ever with intervention in the climate system, *it's complicated*, and there are lots of moving parts, which we tried to demonstrate with out final figure: 
-![[eft21329-fig-0003-m.jpg]]
+![](PolarGeo.jpg)
 
 See the [paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003679) for more. 
