@@ -12,6 +12,7 @@ After this workshop, there was a public event on the final evening including tal
 * *We are in a climate emergency, and cannot afford to warm past 1.5C (or perhaps 2C).
 * *We will pass this (these) thresholds without solar geoengineering. 
 * *Therefore we must do solar geoengineering*
+
 This wasn't precisely the argument Anna gave - Operaatio Arktis, i think, do not yet call directly for intervention - but it wasn't far off. The reason i find this scary is that if you except the two premises, it is unassailable. Many young people I know do strongly support the first premise. In fact, many thousands of young passionate people all around Europe have been protesting with something like the first premise written on placards off and on since Greta started the school strikes. Accepting the second premise is less common, but reality and the progress of time are beginning to force one's hand there. So putting these together, my gut says that we could be on the brink of a rapid change in the disposition towards solar geoengineering amongst the young climate activist world, and Operaatio Arktis might be the first example of a new wave. That's not necessarily a bad thing. Perhaps its long overdue. But it is a *scary* thing, to me at least, as it represents a huge step towards this massive change in our relationship to nature, which i study every day but so far lives only in people's heads, becoming reality.
 ![](/public/me_AM.jpg)
 

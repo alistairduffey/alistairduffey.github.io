@@ -6,7 +6,7 @@ description:         'alistair.duffey.21 [at] ucl.ac.uk
                         <a href="https://scholar.google.com/citations?user=QHoneh4AAAAJ&hl=en" target="_blank">Google Scholar</a>'
 url:                 https://alistairduffey.github.io/
 baseurl:             ''
-paginate:            2
+paginate:            10
 permalink:           pretty
 
 
