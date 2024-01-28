@@ -13,6 +13,6 @@ Overall we argue that:
 - No truly localized polar geoengineering proposal has been shown viable for restoring climate on a pan-Arctic or Antarctic scale
 
 Another key message is simply that, as ever with intervention in the climate system, *it's complicated*, and there are lots of moving parts, which we tried to demonstrate with out final figure: 
-![](PolarGeo.jpg)
+![](public/PolarGeo.jpg)
 
 See the [paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003679) for more. 
