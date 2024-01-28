@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Arctic Momentum, Helsinki, August 2023
 ---
 
