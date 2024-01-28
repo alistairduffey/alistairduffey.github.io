@@ -17,5 +17,5 @@ This wasn't precisely the argument Anna gave - Operaatio Arktis, i think, do not
 
 
 GIF: sea ice concentration (top) and Arctic temperature (bottom) under a medium emissions scenario (SSP2-4.5) and a scenario using SAI cool the planet (SAI). More sea ice and a colder Arctic under is simulated under this kind of solar geoengineering. 
-![](gif.gif)
+![](/public/gif.gif)
 
